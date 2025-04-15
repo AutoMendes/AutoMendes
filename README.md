@@ -1,9 +1,9 @@
 ## Hi, I'm Tiago! 👋
 
-A passionate mobile developer from Portugal 🇵🇹
+A passionate developer from Portugal 🇵🇹
 
 - 🎓 I'm currently pursuing a degree in Computer Engineering.
-- 📱 Focused on mobile development, especially using Flutter, Kotlin and Swift.
+- 📱 Focused on both mobile and backend development, especially using Flutter, Kotlin, Swift, Node.js, C#, among many others.
 - 🚀 I enjoy working with modern frameworks to build efficient and user-friendly applications.
 - 📚 Constantly learning and exploring new technologies to improve my skills.
 
