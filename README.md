@@ -13,7 +13,7 @@ A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **DevO
 ## 🧠 About Me
 
 - Mobile development with **Flutter**, **Kotlin**, and **Swift**  
-- Backend development with **Node.js**, **Go**, **C#**, **Java**  
+- Backend development with **Node.js**, **C#**, **Java** & **Go**  
 - Strong interest in **AI**, **DevOps**, automation & architecture  
 - Experience with relational & NoSQL databases  
 - Focus on clean code, performance, maintainability and modern patterns  
@@ -59,7 +59,6 @@ A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **DevO
 
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MVVM-000000?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android%20SDK-3DDC84?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
