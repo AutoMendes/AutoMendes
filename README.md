@@ -61,6 +61,7 @@ A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **DevO
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android%20SDK-3DDC84?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
