@@ -68,9 +68,6 @@ A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **DevO
 ## 📫 Connect with me
 
 <p>
-  <a href="https://github.com/AutoMendes">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/tiago-lobo-174363261">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
