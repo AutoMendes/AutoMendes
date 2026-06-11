@@ -1,36 +1,28 @@
 ## Hi, I'm Tiago! 👋
 
-A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **DevOps Curious⚙️**
+A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **Cloud Native Builder ☁️**
 
-- 🎓 I'm currently pursuing a degree in Computer Engineering.  
-- 📱 Focused on both mobile and backend development.  
-- 🚀 Passionate about building modern, scalable and user-friendly applications.  
-- 🛠️ Interested in DevOps practices, automation, CI/CD and cloud workflows.  
-- 📚 Always learning and exploring new technologies.
+- 🎓 Currently pursuing a degree in Computer Engineering
+- 📱 Focused on both mobile and backend development
+- 🚀 Passionate about building modern, scalable and user-friendly applications
+- 🛠️ Interested in DevOps practices, automation, CI/CD and cloud workflows
+- 📚 Always learning and exploring new technologies
 
 ---
 
 ## 🧠 About Me
 
-- Mobile development with **Flutter**, **Kotlin**, and **Swift**  
-- Backend development with **Node.js**, **C#**, **Java** & **Go**  
-- Strong interest in **AI**, **DevOps**, automation & architecture  
-- Experience with relational & NoSQL databases  
-- Focus on clean code, performance, maintainability and modern patterns  
+- Mobile development with **Flutter**, **Kotlin**, and **Swift**
+- Backend development with **Node.js**, **C#**, **Java** & **Go**
+- Strong interest in **AI**, **DevOps**, automation & architecture
+- Experience with relational & NoSQL databases
+- Focus on clean code, performance, maintainability and modern patterns
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 **Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />
-</p>
-
-### 💻 **Backend & Web**
+### 💻 Backend & Web
 <p>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
@@ -39,12 +31,30 @@ A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **DevO
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JSX-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
 </p>
 
-### 🗄️ **Databases**
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=azurepipelines&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
+### 🚀 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+</p>
+
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -53,25 +63,20 @@ A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **DevO
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
 
----
-
-## 🔧 Tools & Methodologies
-
+### 🔧 Tools
 <p>
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android%20SDK-3DDC84?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ---
 
 ## 📫 Connect with me
-
 <p>
   <a href="https://www.linkedin.com/in/tiago-lobo-174363261">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
