@@ -2,7 +2,7 @@
 
 A passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖** and **Cloud Native Builder ☁️**
 
-- 🎓 Currently pursuing a degree in Computer Engineering
+- 🎓 Computer Engineering graduate
 - 📱 Focused on both mobile and backend development
 - 🚀 Passionate about building modern, scalable and user-friendly applications
 - 🛠️ Interested in DevOps practices, automation, CI/CD and cloud workflows
